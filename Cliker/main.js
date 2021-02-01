@@ -6,7 +6,7 @@ const DISPLAY = document.querySelector('#display');
 const BUTTON = document.querySelector('#button');
 const COUNTER = document.querySelector('#counter');
 const RESET = document.querySelector('#reset')
- let a =1
+
 
 function counter() {
     COUNTER.textContent = ++clicks
